@@ -1,3 +1,3 @@
 # asianKitchenMenu
-This repo is a Website Study for JavaScript Courses in Patika.dev
+This repo is a Map methods Study for JavaScript Courses in Patika.dev
 ![](/img/001.jpg)
